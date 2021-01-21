@@ -1,0 +1,3 @@
+Request command through the command line
+
+curl -u <username> -i -X <request_method> http://localhost:5000/<route>
